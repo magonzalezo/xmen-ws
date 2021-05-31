@@ -11,7 +11,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="stats")
+@Table(name="stats", schema="mutantdatabase")
 public class StatEntity implements Serializable {
 
 	private static final long serialVersionUID = 1L;
