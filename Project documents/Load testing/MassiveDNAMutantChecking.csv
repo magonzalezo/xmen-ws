@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622476642486,11,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-5,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,10,0,0
+1622476642487,11,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-4,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,11,0,1
+1622476642494,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-13,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,12,0,1
+1622476642493,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-7,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,13,0,1
+1622476642485,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-1,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,14,0,1
+1622476642491,15,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-2,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,15,0,1
+1622476642489,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-9,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,12,0,1
+1622476642495,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-12,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,12,0,0
+1622476642489,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-8,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,12,0,1
+1622476642485,17,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-3,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,17,0,0
+1622476642513,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-16,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,4,0,0
+1622476642510,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-14,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,10,0,1
+1622476642509,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-6,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,13,0,1
+1622476642512,11,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-10,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,11,0,1
+1622476642517,8,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-17,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,8,0,1
+1622476642502,25,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-11,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,25,0,7
+1622476642510,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-15,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,18,0,1
+1622476642519,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-18,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,10,0,1
+1622476642528,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-20,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,6,0,1
+1622476642530,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-21,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,6,0,1
+1622476642532,7,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-22,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,6,0,1
+1622476642532,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-25,text,true,,176,246,2,2,http://127.0.0.1:8080/mutant,10,0,1
+1622476642528,19,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-19,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,19,0,1
+1622476642542,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-26,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,5,0,1
+1622476642543,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-24,text,true,,176,246,2,2,http://127.0.0.1:8080/mutant,6,0,0
+1622476642544,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-29,text,true,,176,246,1,1,http://127.0.0.1:8080/mutant,6,0,1
+1622476642553,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-45,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,3,0,1
+1622476642554,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-56,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,4,0,2
+1622476642556,20,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-37,text,true,,176,246,20,20,http://127.0.0.1:8080/mutant,19,0,1
+1622476642554,23,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-33,text,true,,176,246,19,19,http://127.0.0.1:8080/mutant,23,0,0
+1622476642567,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-36,text,true,,176,246,18,18,http://127.0.0.1:8080/mutant,11,0,1
+1622476642560,20,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-60,text,true,,176,246,17,17,http://127.0.0.1:8080/mutant,20,0,1
+1622476642566,15,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-32,text,true,,176,246,16,16,http://127.0.0.1:8080/mutant,15,0,1
+1622476642568,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-71,text,true,,176,246,16,16,http://127.0.0.1:8080/mutant,14,0,0
+1622476642563,20,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-41,text,true,,176,246,14,14,http://127.0.0.1:8080/mutant,20,0,0
+1622476642565,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-28,text,true,,176,246,14,14,http://127.0.0.1:8080/mutant,18,0,1
+1622476642560,24,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-23,text,true,,176,246,12,12,http://127.0.0.1:8080/mutant,24,0,2
+1622476642564,21,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-64,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,21,0,1
+1622476642564,21,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-63,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,21,0,1
+1622476642566,20,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-65,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,19,0,1
+1622476642571,19,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-81,text,true,,176,246,12,12,http://127.0.0.1:8080/mutant,19,0,0
+1622476642569,22,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-68,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,22,0,1
+1622476642589,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-96,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,4,0,1
+1622476642587,7,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-92,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,7,0,4
+1622476642587,8,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-101,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,8,0,1
+1622476642576,21,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-30,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,21,0,1
+1622476642587,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-38,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,10,0,4
+1622476642592,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-42,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,5,0,1
+1622476642570,30,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-34,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,30,0,5
+1622476642569,33,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-73,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,33,0,1
+1622476642572,31,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-83,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,31,0,1
+1622476642599,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-49,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,4,0,1
+1622476642599,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-46,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,5,0,1
+1622476642602,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-35,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,4,0,1
+1622476642573,34,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-85,text,true,,176,246,2,2,http://127.0.0.1:8080/mutant,34,0,1
+1622476642609,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-116,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,5,0,1
+1622476642561,53,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-27,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,51,0,1
+1622476642609,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-31,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,5,0,1
+1622476642609,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-39,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,5,0,1
+1622476642619,19,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-50,text,true,,176,246,12,12,http://127.0.0.1:8080/mutant,19,0,1
+1622476642628,11,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-145,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,11,0,1
+1622476642616,24,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-51,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,24,0,1
+1622476642615,25,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-47,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,25,0,1
+1622476642624,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-55,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,18,0,0
+1622476642625,21,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-52,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,21,0,1
+1622476642630,16,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-54,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,16,0,0
+1622476642637,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-157,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,10,0,3
+1622476642612,35,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-43,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,35,0,0
+1622476642623,25,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-48,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,25,0,1
+1622476642619,30,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-131,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,23,0,1
+1622476642645,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-165,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,9,0,3
+1622476642642,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-161,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,12,0,6
+1622476642632,22,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-147,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,22,0,9
+1622476642649,8,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-164,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,8,0,1
+1622476642650,7,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-160,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,7,0,0
+1622476642652,7,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-61,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,6,0,1
+1622476642651,8,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-57,text,true,,176,246,2,2,http://127.0.0.1:8080/mutant,7,0,0
+1622476642644,15,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-163,text,true,,176,246,1,1,http://127.0.0.1:8080/mutant,15,0,4
+1622476642661,3,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-40,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,3,0,1
+1622476642661,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-69,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,3,0,1
+1622476642663,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-77,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,3,0,1
+1622476642661,8,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-59,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,8,0,4
+1622476642666,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-75,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,4,0,1
+1622476642670,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-72,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,5,0,1
+1622476642673,7,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-44,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,6,0,2
+1622476642673,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-76,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,9,0,1
+1622476642673,11,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-80,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,11,0,1
+1622476642675,23,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-186,text,true,,176,246,13,13,http://127.0.0.1:8080/mutant,23,0,1
+1622476642675,23,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-84,text,true,,176,246,13,13,http://127.0.0.1:8080/mutant,23,0,2
+1622476642678,25,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-89,text,true,,176,246,12,12,http://127.0.0.1:8080/mutant,25,0,1
+1622476642686,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-200,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,18,0,1
+1622476642669,37,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-79,text,true,,176,246,11,11,http://127.0.0.1:8080/mutant,36,0,1
+1622476642678,29,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-58,text,true,,176,246,10,10,http://127.0.0.1:8080/mutant,29,0,16
+1622476642690,19,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-204,text,true,,176,246,9,9,http://127.0.0.1:8080/mutant,19,0,1
+1622476642689,20,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-196,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,20,0,0
+1622476642692,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-208,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,18,0,1
+1622476642694,16,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-212,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,16,0,1
+1622476642695,15,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-62,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,15,0,1
+1622476642695,19,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-213,text,true,,176,246,8,8,http://127.0.0.1:8080/mutant,18,0,1
+1622476642701,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-70,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,14,0,0
+1622476642697,21,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-202,text,true,,176,246,7,7,http://127.0.0.1:8080/mutant,21,0,1
+1622476642706,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-74,text,true,,176,246,6,6,http://127.0.0.1:8080/mutant,13,0,0
+1622476642711,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-217,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,9,0,1
+1622476642711,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-78,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,9,0,1
+1622476642713,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-82,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,10,0,1
+1622476642714,11,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-86,text,true,,176,246,5,5,http://127.0.0.1:8080/mutant,11,0,1
+1622476642722,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-93,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,5,0,1
+1622476642717,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-90,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,10,0,1
+1622476642726,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-95,text,true,,176,246,3,3,http://127.0.0.1:8080/mutant,5,0,1
+1622476642723,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-97,text,true,,176,246,2,2,http://127.0.0.1:8080/mutant,8,0,1
+1622476642744,6,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-264,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,6,0,1
+1622476642746,5,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-265,text,true,,176,246,4,4,http://127.0.0.1:8080/mutant,4,0,1
+1622476642747,110,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-94,text,true,,176,246,187,187,http://127.0.0.1:8080/mutant,16,0,0
+1622476642771,87,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-146,text,true,,176,246,187,187,http://127.0.0.1:8080/mutant,87,0,1
+1622476642753,107,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-206,text,true,,176,246,186,186,http://127.0.0.1:8080/mutant,107,0,1
+1622476642754,107,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-66,text,true,,176,246,185,185,http://127.0.0.1:8080/mutant,106,0,1
+1622476642756,106,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-214,text,true,,176,246,184,184,http://127.0.0.1:8080/mutant,106,0,1
+1622476642757,107,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-91,text,true,,176,246,183,183,http://127.0.0.1:8080/mutant,107,0,1
+1622476642757,107,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-235,text,true,,176,246,182,182,http://127.0.0.1:8080/mutant,107,0,1
+1622476642759,106,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-87,text,true,,176,246,181,181,http://127.0.0.1:8080/mutant,106,0,0
+1622476642757,109,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-210,text,true,,176,246,180,180,http://127.0.0.1:8080/mutant,108,0,2
+1622476642760,107,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-218,text,true,,176,246,179,179,http://127.0.0.1:8080/mutant,107,0,0
+1622476642759,110,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-88,text,true,,176,246,179,179,http://127.0.0.1:8080/mutant,110,0,1
+1622476642761,112,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-277,text,true,,176,246,181,181,http://127.0.0.1:8080/mutant,112,0,1
+1622476642763,118,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-216,text,true,,176,246,184,184,http://127.0.0.1:8080/mutant,118,0,1
+1622476642764,124,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-211,text,true,,176,246,188,188,http://127.0.0.1:8080/mutant,124,0,0
+1622476642765,127,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-215,text,true,,176,246,190,190,http://127.0.0.1:8080/mutant,127,0,1
+1622476642761,135,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-226,text,true,,176,246,194,194,http://127.0.0.1:8080/mutant,135,0,1
+1622476642764,133,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-230,text,true,,176,246,193,193,http://127.0.0.1:8080/mutant,133,0,0
+1622476642758,142,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-222,text,true,,176,246,193,193,http://127.0.0.1:8080/mutant,116,0,1
+1622476642858,44,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-375,text,true,,176,246,192,192,http://127.0.0.1:8080/mutant,44,0,1
+1622476642766,136,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-220,text,true,,176,246,192,192,http://127.0.0.1:8080/mutant,136,0,1
+1622476642869,35,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-385,text,true,,176,246,190,190,http://127.0.0.1:8080/mutant,35,0,1
+1622476642871,34,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-389,text,true,,176,246,189,189,http://127.0.0.1:8080/mutant,33,0,1
+1622476642870,36,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-387,text,true,,176,246,188,188,http://127.0.0.1:8080/mutant,36,0,4
+1622476642873,36,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-388,text,true,,176,246,187,187,http://127.0.0.1:8080/mutant,35,0,1
+1622476642875,35,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-383,text,true,,176,246,186,186,http://127.0.0.1:8080/mutant,34,0,1
+1622476642876,35,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-393,text,true,,176,246,185,185,http://127.0.0.1:8080/mutant,35,0,1
+1622476642879,33,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-397,text,true,,176,246,184,184,http://127.0.0.1:8080/mutant,32,0,1
+1622476642767,149,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-209,text,true,,176,246,183,183,http://127.0.0.1:8080/mutant,148,0,1
+1622476642767,150,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-205,text,true,,176,246,182,182,http://127.0.0.1:8080/mutant,149,0,0
+1622476642776,142,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-126,text,true,,176,246,181,181,http://127.0.0.1:8080/mutant,142,0,2
+1622476642769,151,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-194,text,true,,176,246,180,180,http://127.0.0.1:8080/mutant,150,0,1
+1622476642776,146,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-229,text,true,,176,246,179,179,http://127.0.0.1:8080/mutant,145,0,1
+1622476642772,150,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-238,text,true,,176,246,179,179,http://127.0.0.1:8080/mutant,150,0,6
+1622476642775,149,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-199,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,149,0,1
+1622476642774,150,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-130,text,true,,176,246,176,176,http://127.0.0.1:8080/mutant,150,0,4
+1622476642769,157,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-192,text,true,,176,246,175,175,http://127.0.0.1:8080/mutant,157,0,1
+1622476642772,155,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-221,text,true,,176,246,174,174,http://127.0.0.1:8080/mutant,155,0,2
+1622476642768,161,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-201,text,true,,176,246,173,173,http://127.0.0.1:8080/mutant,161,0,1
+1622476642783,148,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-227,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,148,0,1
+1622476642780,151,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-184,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,151,0,1
+1622476642781,152,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-195,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,152,0,2
+1622476642784,149,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-114,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,149,0,0
+1622476642795,140,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-313,text,true,,176,246,170,170,http://127.0.0.1:8080/mutant,140,0,1
+1622476642794,142,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-259,text,true,,176,246,169,169,http://127.0.0.1:8080/mutant,141,0,1
+1622476642793,145,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-287,text,true,,176,246,168,168,http://127.0.0.1:8080/mutant,144,0,2
+1622476642792,147,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-306,text,true,,176,246,167,167,http://127.0.0.1:8080/mutant,147,0,0
+1622476642798,143,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-261,text,true,,176,246,166,166,http://127.0.0.1:8080/mutant,142,0,2
+1622476642785,157,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-276,text,true,,176,246,165,165,http://127.0.0.1:8080/mutant,157,0,5
+1622476642778,165,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-233,text,true,,176,246,164,164,http://127.0.0.1:8080/mutant,165,0,1
+1622476642786,159,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-305,text,true,,176,246,163,163,http://127.0.0.1:8080/mutant,159,0,1
+1622476642789,157,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-271,text,true,,176,246,162,162,http://127.0.0.1:8080/mutant,156,0,1
+1622476642790,158,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-262,text,true,,176,246,161,161,http://127.0.0.1:8080/mutant,158,0,2
+1622476642793,155,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-274,text,true,,176,246,161,161,http://127.0.0.1:8080/mutant,155,0,36
+1622476642763,187,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-67,text,true,,176,246,160,160,http://127.0.0.1:8080/mutant,187,0,1
+1622476642793,158,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-244,text,true,,176,246,160,160,http://127.0.0.1:8080/mutant,158,0,1
+1622476642796,156,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-315,text,true,,176,246,159,159,http://127.0.0.1:8080/mutant,156,0,0
+1622476642798,155,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-260,text,true,,176,246,158,158,http://127.0.0.1:8080/mutant,155,0,1
+1622476642780,176,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-154,text,true,,176,246,157,157,http://127.0.0.1:8080/mutant,175,0,1
+1622476642786,172,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-182,text,true,,176,246,156,156,http://127.0.0.1:8080/mutant,172,0,4
+1622476642833,126,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-314,text,true,,176,246,155,155,http://127.0.0.1:8080/mutant,125,0,0
+1622476642790,170,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-291,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,170,0,1
+1622476642783,179,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-239,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,179,0,0
+1622476642844,118,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-360,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,117,0,1
+1622476642821,143,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-336,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,143,0,1
+1622476642834,131,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-162,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,130,0,2
+1622476642964,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-171,text,true,,176,246,157,157,http://127.0.0.1:8080/mutant,3,0,1
+1622476642965,7,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-167,text,true,,176,246,157,157,http://127.0.0.1:8080/mutant,5,0,2
+1622476642835,137,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-255,text,true,,176,246,156,156,http://127.0.0.1:8080/mutant,132,0,1
+1622476642969,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-177,text,true,,176,246,155,155,http://127.0.0.1:8080/mutant,4,0,1
+1622476642829,145,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-270,text,true,,176,246,155,155,http://127.0.0.1:8080/mutant,144,0,6
+1622476642967,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-175,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,8,0,1
+1622476642967,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-173,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,9,0,1
+1622476642971,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-179,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,8,0,1
+1622476642970,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-181,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,11,0,1
+1622476642977,9,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-285,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,9,0,1
+1622476642977,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-231,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,12,0,1
+1622476642977,12,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-298,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,11,0,1
+1622476642978,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-185,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,13,0,1
+1622476642978,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-301,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,13,0,1
+1622476642979,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-248,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,14,0,1
+1622476642980,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-168,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,14,0,1
+1622476642982,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-236,text,true,,176,246,151,151,http://127.0.0.1:8080/mutant,12,0,1
+1622476642982,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-339,text,true,,176,246,150,150,http://127.0.0.1:8080/mutant,14,0,1
+1622476642982,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-225,text,true,,176,246,149,149,http://127.0.0.1:8080/mutant,14,0,1
+1622476642802,196,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-320,text,true,,176,246,150,150,http://127.0.0.1:8080/mutant,196,0,1
+1622476642949,61,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-351,text,true,,176,246,149,149,http://127.0.0.1:8080/mutant,61,0,1
+1622476642951,59,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-379,text,true,,176,246,148,148,http://127.0.0.1:8080/mutant,59,0,1
+1622476642974,69,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-356,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,69,0,1
+1622476642975,68,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-268,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,68,0,1
+1622476642986,81,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-256,text,true,,176,246,156,156,http://127.0.0.1:8080/mutant,81,0,1
+1622476642985,82,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-316,text,true,,176,246,155,155,http://127.0.0.1:8080/mutant,82,0,0
+1622476642984,84,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-240,text,true,,176,246,154,154,http://127.0.0.1:8080/mutant,84,0,3
+1622476642880,188,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-396,text,true,,176,246,153,153,http://127.0.0.1:8080/mutant,34,0,1
+1622476642991,78,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-344,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,78,0,2
+1622476642894,179,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-373,text,true,,176,246,152,152,http://127.0.0.1:8080/mutant,178,0,2
+1622476642893,182,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-413,text,true,,176,246,151,151,http://127.0.0.1:8080/mutant,182,0,0
+1622476642884,193,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-401,text,true,,176,246,151,151,http://127.0.0.1:8080/mutant,193,0,1
+1622476642851,249,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-190,text,true,,176,246,162,162,http://127.0.0.1:8080/mutant,248,0,1
+1622476642836,267,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-118,text,true,,176,246,162,162,http://127.0.0.1:8080/mutant,266,0,1
+1622476642810,296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-328,text,true,,176,246,162,162,http://127.0.0.1:8080/mutant,295,0,1
+1622476642816,298,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-332,text,true,,176,246,169,169,http://127.0.0.1:8080/mutant,298,0,1
+1622476642812,308,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-327,text,true,,176,246,169,169,http://127.0.0.1:8080/mutant,307,0,1
+1622476642728,398,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-105,text,true,,176,246,178,178,http://127.0.0.1:8080/mutant,398,0,1
+1622476642834,296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-237,text,true,,176,246,178,178,http://127.0.0.1:8080/mutant,290,0,1
+1622476642821,311,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-335,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,310,0,3
+1622476642834,303,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-322,text,true,,176,246,178,178,http://127.0.0.1:8080/mutant,302,0,3
+1622476642837,300,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-355,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,300,0,1
+1622476642819,321,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-331,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,321,0,0
+1622476642788,353,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-245,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,353,0,0
+1622476642777,367,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-242,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,366,0,2
+1622476642787,361,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-304,text,true,,176,246,178,178,http://127.0.0.1:8080/mutant,361,0,1
+1622476642777,373,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-191,text,true,,176,246,178,178,http://127.0.0.1:8080/mutant,373,0,5
+1622476642789,362,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-102,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,362,0,2
+1622476642793,368,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-311,text,true,,176,246,176,176,http://127.0.0.1:8080/mutant,368,0,4
+1622476642796,372,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-257,text,true,,176,246,178,178,http://127.0.0.1:8080/mutant,372,0,4
+1622476642803,365,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-321,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,365,0,1
+1622476642785,390,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-106,text,true,,176,246,177,177,http://127.0.0.1:8080/mutant,390,0,0
+1622476642790,386,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-251,text,true,,176,246,176,176,http://127.0.0.1:8080/mutant,386,0,1
+1622476642797,381,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-317,text,true,,176,246,175,175,http://127.0.0.1:8080/mutant,381,0,0
+1622476642784,397,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-273,text,true,,176,246,174,174,http://127.0.0.1:8080/mutant,397,0,1
+1622476642770,413,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-197,text,true,,176,246,173,173,http://127.0.0.1:8080/mutant,412,0,4
+1622476642773,410,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-228,text,true,,176,246,173,173,http://127.0.0.1:8080/mutant,409,0,0
+1622476642773,412,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-189,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,412,0,1
+1622476642771,416,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-193,text,true,,176,246,170,170,http://127.0.0.1:8080/mutant,415,0,3
+1622476642767,420,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-234,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,420,0,1
+1622476642766,422,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-198,text,true,,176,246,170,170,http://127.0.0.1:8080/mutant,422,0,2
+1622476642895,301,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-377,text,true,,176,246,174,174,http://127.0.0.1:8080/mutant,298,0,1
+1622476642892,308,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-412,text,true,,176,246,174,174,http://127.0.0.1:8080/mutant,306,0,1
+1622476642894,308,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-376,text,true,,176,246,173,173,http://127.0.0.1:8080/mutant,308,0,1
+1622476642887,316,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-405,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,315,0,1
+1622476642888,317,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-400,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,316,0,1
+1622476642852,358,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-367,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,357,0,1
+1622476642834,378,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-172,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,378,0,1
+1622476642814,399,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-333,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,399,0,1
+1622476642830,384,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-98,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,381,0,5
+1622476642845,372,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-365,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,372,0,1
+1622476642830,389,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-283,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,387,0,3
+1622476642829,391,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-345,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,390,0,4
+1622476642822,400,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-341,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,400,0,1
+1622476642794,433,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-310,text,true,,176,246,173,173,http://127.0.0.1:8080/mutant,433,0,34
+1622476642793,434,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-299,text,true,,176,246,173,173,http://127.0.0.1:8080/mutant,434,0,5
+1622476642849,379,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-368,text,true,,176,246,172,172,http://127.0.0.1:8080/mutant,377,0,1
+1622476642805,425,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-324,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,425,0,1
+1622476642800,432,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-319,text,true,,176,246,170,170,http://127.0.0.1:8080/mutant,432,0,0
+1622476642786,446,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-293,text,true,,176,246,170,170,http://127.0.0.1:8080/mutant,446,0,1
+1622476642794,442,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-289,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,442,0,0
+1622476642808,428,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-323,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,428,0,1
+1622476642806,434,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-325,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,434,0,1
+1622476642787,454,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-243,text,true,,176,246,170,170,http://127.0.0.1:8080/mutant,453,0,2
+1622476642786,456,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-292,text,true,,176,246,169,169,http://127.0.0.1:8080/mutant,456,0,1
+1622476642787,455,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-254,text,true,,176,246,168,168,http://127.0.0.1:8080/mutant,455,0,1
+1622476642777,468,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-232,text,true,,176,246,169,169,http://127.0.0.1:8080/mutant,468,0,1
+1622476642770,478,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-224,text,true,,176,246,171,171,http://127.0.0.1:8080/mutant,478,0,1
+1622476643248,120,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-499,text,true,,176,246,174,179,http://127.0.0.1:8080/mutant,120,0,116
+1622476643364,4,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-503,text,true,,176,246,173,179,http://127.0.0.1:8080/mutant,3,0,0
+1622476642838,531,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-246,text,true,,176,246,173,180,http://127.0.0.1:8080/mutant,530,0,527
+1622476643119,269,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-326,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,269,0,2
+1622476643123,266,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-124,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,266,0,1
+1622476643086,304,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-153,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,304,0,6
+1622476643017,373,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-203,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,373,0,4
+1622476642775,615,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-219,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,615,0,6
+1622476643025,3277,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-144,text,true,,176,246,650,1383,http://127.0.0.1:8080/mutant,3277,0,1
+1622476643094,3210,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-294,text,true,,176,246,651,1384,http://127.0.0.1:8080/mutant,3210,0,4
+1622476643094,296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-174,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,296,0,3
+1622476643016,374,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-152,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,374,0,1
+1622476642990,401,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-384,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,401,0,54
+1622476642988,403,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-308,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,403,0,56
+1622476642977,414,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-352,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,414,0,65
+1622476642995,396,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-392,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,396,0,49
+1622476642997,394,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-380,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,394,0,1
+1622476642822,569,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-340,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,569,0,1
+1622476643064,3237,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-361,text,true,,176,246,649,1382,http://127.0.0.1:8080/mutant,3237,0,1
+1622476643062,329,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-369,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,329,0,1
+1622476643076,314,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-557,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,314,0,1
+1622476643093,298,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-140,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,298,0,1
+1622476643013,378,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-309,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,378,0,1
+1622476643019,371,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-156,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,371,0,1
+1622476642890,3423,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-408,text,true,,176,246,656,1389,http://127.0.0.1:8080/mutant,3423,0,1
+1622476643065,325,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-452,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,325,0,1
+1622476643011,380,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-252,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,380,0,1
+1622476643014,376,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-148,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,376,0,1
+1622476642836,555,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-288,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,555,0,2
+1622476643082,308,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-149,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,308,0,10
+1622476642886,505,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-404,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,505,0,1
+1622476643093,297,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-176,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,297,0,0
+1622476642772,619,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-188,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,619,0,2
+1622476643080,310,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-110,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,310,0,1
+1622476643081,309,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-266,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,309,0,11
+1622476643052,338,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-409,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,338,0,1
+1622476643012,379,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-307,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,379,0,9
+1622476643012,379,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-178,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,379,0,1
+1622476643011,380,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-249,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,380,0,3
+1622476646332,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-666,text,false,,2434,0,650,1406,http://127.0.0.1:8080/mutant,0,0,0
+1622476643052,338,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-280,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,338,0,1
+1622476643015,3284,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-272,text,true,,176,246,645,1378,http://127.0.0.1:8080/mutant,375,0,2
+1622476646283,16,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-474,text,false,,2434,0,645,1378,http://127.0.0.1:8080/mutant,0,0,16
+1622476643024,366,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-169,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,366,0,1
+1622476642841,549,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-312,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,548,0,546
+1622476643018,372,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-180,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,372,0,2
+1622476643018,372,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-155,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,372,0,2
+1622476646408,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-541,text,false,,2434,0,653,1412,http://127.0.0.1:8080/mutant,0,0,1
+1622476646414,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-545,text,false,,2434,0,652,1412,http://127.0.0.1:8080/mutant,0,0,0
+1622476646420,9,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-493,text,false,,2434,0,652,1418,http://127.0.0.1:8080/mutant,0,0,9
+1622476646465,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-563,text,false,,2434,0,655,1446,http://127.0.0.1:8080/mutant,0,0,1
+1622476642825,566,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-343,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,566,0,1
+1622476646480,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-699,text,false,,2434,0,654,1459,http://127.0.0.1:8080/mutant,0,0,1
+1622476642833,558,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-347,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,558,0,0
+1622476642835,556,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-263,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,556,0,1
+1622476643011,380,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-258,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,380,0,2
+1622476646483,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-354,text,false,,2434,0,653,1461,http://127.0.0.1:8080/mutant,0,0,1
+1622476646484,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-619,text,false,,2434,0,653,1460,http://127.0.0.1:8080/mutant,0,0,1
+1622476646485,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-390,text,false,,2434,0,652,1459,http://127.0.0.1:8080/mutant,0,0,1
+1622476646485,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-695,text,false,,2434,0,652,1459,http://127.0.0.1:8080/mutant,0,0,1
+1622476642836,555,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-250,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,555,0,1
+1622476646487,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-655,text,false,,2434,0,651,1462,http://127.0.0.1:8080/mutant,0,0,0
+1622476646487,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-691,text,false,,2434,0,651,1462,http://127.0.0.1:8080/mutant,0,0,0
+1622476643016,374,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-275,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,374,0,1
+1622476643058,332,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-395,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,332,0,1
+1622476646487,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-662,text,false,,2434,0,651,1462,http://127.0.0.1:8080/mutant,0,0,0
+1622476643015,375,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-151,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,375,0,1
+1622476643094,296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-295,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,296,0,0
+1622476646488,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-705,text,false,,2434,0,651,1462,http://127.0.0.1:8080/mutant,0,0,0
+1622476646487,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-649,text,false,,2434,0,649,1464,http://127.0.0.1:8080/mutant,0,0,2
+1622476646490,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-685,text,false,,2434,0,648,1465,http://127.0.0.1:8080/mutant,0,0,0
+1622476646426,65,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-547,text,false,,2434,0,647,1464,http://127.0.0.1:8080/mutant,0,0,65
+1622476646483,12,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-537,text,false,,2434,0,646,1468,http://127.0.0.1:8080/mutant,0,0,12
+1622476646496,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-647,text,false,,2434,0,645,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646498,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-679,text,false,,2434,0,645,1480,http://127.0.0.1:8080/mutant,0,0,1
+1622476646278,20,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-786,text,false,,2434,0,645,1378,http://127.0.0.1:8080/mutant,0,0,20
+1622476643022,368,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-159,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,368,0,1
+1622476643083,307,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-135,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,307,0,9
+1622476643061,329,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-403,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,329,0,1
+1622476643019,371,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-391,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,371,0,1
+1622476643071,319,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-549,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,319,0,1
+1622476643098,3200,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-137,text,true,,176,246,644,1377,http://127.0.0.1:8080/mutant,3200,0,0
+1622476643107,283,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-303,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,283,0,1
+1622476643097,293,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-132,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,293,0,0
+1622476642853,538,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-330,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,538,0,1
+1622476643094,296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-279,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,296,0,1
+1622476643101,289,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-267,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,289,0,3
+1622476643097,292,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-141,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,292,0,4
+1622476643105,285,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-119,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,285,0,2
+1622476643096,294,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-133,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,294,0,1
+1622476643101,288,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-241,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,288,0,3
+1622476643098,292,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-136,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,292,0,1
+1622476643106,283,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-138,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,283,0,1
+1622476646287,11,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-694,text,false,,2434,0,644,1377,http://127.0.0.1:8080/mutant,0,0,11
+1622476642775,616,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-134,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,616,0,0
+1622476642842,549,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-357,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,549,0,1
+1622476643093,296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-247,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,296,0,1
+1622476643099,290,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-183,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,290,0,0
+1622476643107,282,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-129,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,282,0,0
+1622476643103,286,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-123,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,286,0,1
+1622476643100,289,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-127,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,289,0,1
+1622476643097,292,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-150,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,292,0,1
+1622476643099,3199,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-278,text,true,,176,246,644,1376,http://127.0.0.1:8080/mutant,3199,0,0
+1622476643106,283,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-399,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,283,0,2
+1622476643107,282,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-371,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,282,0,1
+1622476643113,276,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-53,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,276,0,1
+1622476643108,281,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-282,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,281,0,1
+1622476643110,279,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-125,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,279,0,0
+1622476643108,281,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-187,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,281,0,1
+1622476643109,280,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-128,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,280,0,2
+1622476643109,280,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-297,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,280,0,8
+1622476643110,279,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-120,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,279,0,1
+1622476643122,267,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-103,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,267,0,1
+1622476643128,261,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-109,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,261,0,1
+1622476643123,266,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-349,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,266,0,1
+1622476642855,534,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-302,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,534,0,1
+1622476646288,9,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-629,text,false,,2434,0,644,1375,http://127.0.0.1:8080/mutant,0,0,9
+1622476643119,270,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-170,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,270,0,3
+1622476643119,270,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-329,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,270,0,1
+1622476643116,273,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-290,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,273,0,1
+1622476643117,272,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-158,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,272,0,1
+1622476643121,268,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-166,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,268,0,1
+1622476645924,354,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-794,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,354
+1622476645939,334,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-795,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,334
+1622476645944,329,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-763,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,329
+1622476645951,317,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-895,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,317
+1622476646031,237,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-758,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,237
+1622476645864,403,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-480,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,403
+1622476645873,392,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-488,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,392
+1622476645880,384,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-787,text,false,,2434,0,632,1364,http://127.0.0.1:8080/mutant,0,0,384
+1622476645887,376,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-899,text,false,,2434,0,632,1366,http://127.0.0.1:8080/mutant,0,0,376
+1622476645892,371,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-905,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,371
+1622476645888,375,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-901,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,375
+1622476645893,370,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-500,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,370
+1622476645894,368,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-492,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,368
+1622476645896,366,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-504,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,366
+1622476645914,348,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-920,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,348
+1622476645912,350,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-771,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,350
+1622476645913,349,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-775,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,349
+1622476645919,342,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-766,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,342
+1622476645920,341,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-782,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,341
+1622476645918,343,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-350,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,343
+1622476646498,35,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-701,text,false,,2434,0,648,1483,http://127.0.0.1:8080/mutant,0,0,35
+1622476645918,343,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-820,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,343
+1622476645919,342,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-836,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,342
+1622476645920,341,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-790,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,341
+1622476645921,340,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-774,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,340
+1622476645921,340,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-824,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,340
+1622476645922,339,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-346,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,339
+1622476646546,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-683,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,1
+1622476646549,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-697,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,0
+1622476646550,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-643,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,0
+1622476646551,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-653,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,1
+1622476646553,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-645,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,1
+1622476646554,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-671,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,1
+1622476646552,5,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-675,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,5
+1622476646557,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-693,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,1
+1622476645923,337,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-778,text,false,,2434,0,632,1368,http://127.0.0.1:8080/mutant,0,0,337
+1622476646622,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-670,text,false,,2434,0,640,1502,http://127.0.0.1:8080/mutant,0,0,1
+1622476645932,328,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-762,text,false,,2434,0,632,1369,http://127.0.0.1:8080/mutant,0,0,328
+1622476645927,333,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-769,text,false,,2434,0,632,1369,http://127.0.0.1:8080/mutant,0,0,333
+1622476645923,337,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-765,text,false,,2434,0,632,1369,http://127.0.0.1:8080/mutant,0,0,337
+1622476645927,333,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-864,text,false,,2434,0,632,1369,http://127.0.0.1:8080/mutant,0,0,333
+1622476645925,335,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-868,text,false,,2434,0,632,1370,http://127.0.0.1:8080/mutant,0,0,335
+1622476645926,333,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-848,text,false,,2434,0,632,1370,http://127.0.0.1:8080/mutant,0,0,333
+1622476645928,332,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-828,text,false,,2434,0,632,1370,http://127.0.0.1:8080/mutant,0,0,331
+1622476645923,336,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-852,text,false,,2434,0,632,1370,http://127.0.0.1:8080/mutant,0,0,336
+1622476645934,325,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-781,text,false,,2434,0,632,1370,http://127.0.0.1:8080/mutant,0,0,325
+1622476645931,328,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-773,text,false,,2434,0,632,1371,http://127.0.0.1:8080/mutant,0,0,328
+1622476645930,329,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-872,text,false,,2434,0,632,1371,http://127.0.0.1:8080/mutant,0,0,329
+1622476645935,324,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-785,text,false,,2434,0,632,1372,http://127.0.0.1:8080/mutant,0,0,324
+1622476645933,326,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-777,text,false,,2434,0,632,1372,http://127.0.0.1:8080/mutant,0,0,326
+1622476645937,322,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-789,text,false,,2434,0,632,1372,http://127.0.0.1:8080/mutant,0,0,322
+1622476645940,318,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-767,text,false,,2434,0,632,1372,http://127.0.0.1:8080/mutant,0,0,318
+1622476643116,273,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-281,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,273,0,1
+1622476643127,262,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-104,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,262,0,2
+1622476643116,273,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-253,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,273,0,1
+1622476643112,277,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-300,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,276,0,1
+1622476643123,266,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-223,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,266,0,1
+1622476643122,266,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-111,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,266,0,1
+1622476643118,270,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-407,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,270,0,1
+1622476643109,2993,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-207,text,true,,176,246,612,1345,http://127.0.0.1:8080/mutant,2993,0,4
+1622476643125,263,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-112,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,263,0,1
+1622476643115,273,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-117,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,273,0,2
+1622476643121,267,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-107,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,267,0,2
+1622476643124,264,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-113,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,264,0,1
+1622476643116,272,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-348,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,272,0,1
+1622476643123,265,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-318,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,265,0,1
+1622476643126,262,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-108,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,262,0,3
+1622476643124,264,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-115,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,264,0,1
+1622476643136,252,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-424,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,252,0,1
+1622476643112,276,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-121,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,276,0,1
+1622476643122,266,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-99,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,266,0,1
+1622476643140,248,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-428,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,248,0,0
+1622476643133,255,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-420,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,255,0,1
+1622476643126,262,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-100,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,262,0,1
+1622476643120,268,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-286,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,268,0,1
+1622476642853,535,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-372,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,535,0,1
+1622476642823,564,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-337,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,564,0,1
+1622476642846,541,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-364,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,541,0,1
+1622476642838,549,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-353,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,549,0,0
+1622476642845,542,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-359,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,542,0,0
+1622476645761,43,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-906,text,false,,2434,0,410,972,http://127.0.0.1:8080/mutant,0,0,43
+1622476645856,48,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-791,text,false,,2434,0,408,974,http://127.0.0.1:8080/mutant,0,0,48
+1622476645843,39,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-476,text,false,,2434,0,400,968,http://127.0.0.1:8080/mutant,0,0,39
+1622476645837,35,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-472,text,false,,2434,0,398,961,http://127.0.0.1:8080/mutant,0,0,35
+1622476645837,24,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-460,text,false,,2434,0,397,941,http://127.0.0.1:8080/mutant,0,0,24
+1622476645836,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-468,text,false,,2434,0,393,909,http://127.0.0.1:8080/mutant,0,0,1
+1622476645833,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-887,text,false,,2434,0,390,906,http://127.0.0.1:8080/mutant,0,0,1
+1622476645832,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-885,text,false,,2434,0,390,906,http://127.0.0.1:8080/mutant,0,0,1
+1622476645829,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-883,text,false,,2434,0,389,908,http://127.0.0.1:8080/mutant,0,0,0
+1622476645827,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-889,text,false,,2434,0,389,908,http://127.0.0.1:8080/mutant,0,0,2
+1622476645828,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-456,text,false,,2434,0,389,907,http://127.0.0.1:8080/mutant,0,0,0
+1622476645826,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-875,text,false,,2434,0,384,904,http://127.0.0.1:8080/mutant,0,0,1
+1622476645826,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-871,text,false,,2434,0,384,904,http://127.0.0.1:8080/mutant,0,0,0
+1622476645820,6,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-859,text,false,,2434,0,383,903,http://127.0.0.1:8080/mutant,0,0,6
+1622476645825,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-877,text,false,,2434,0,383,904,http://127.0.0.1:8080/mutant,0,0,0
+1622476645823,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-855,text,false,,2434,0,381,902,http://127.0.0.1:8080/mutant,0,0,1
+1622476645822,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-863,text,false,,2434,0,381,901,http://127.0.0.1:8080/mutant,0,0,1
+1622476645821,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-873,text,false,,2434,0,381,900,http://127.0.0.1:8080/mutant,0,0,0
+1622476645815,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-865,text,false,,2434,0,377,900,http://127.0.0.1:8080/mutant,0,0,0
+1622476645811,4,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-849,text,false,,2434,0,377,900,http://127.0.0.1:8080/mutant,0,0,4
+1622476645814,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-862,text,false,,2434,0,377,900,http://127.0.0.1:8080/mutant,0,0,1
+1622476645811,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-858,text,false,,2434,0,375,899,http://127.0.0.1:8080/mutant,0,0,0
+1622476645809,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-857,text,false,,2434,0,372,897,http://127.0.0.1:8080/mutant,0,0,1
+1622476645739,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-548,text,false,,2434,0,369,898,http://127.0.0.1:8080/mutant,0,0,1
+1622476645747,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-556,text,false,,2434,0,369,897,http://127.0.0.1:8080/mutant,0,0,0
+1622476645748,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-921,text,false,,2434,0,369,897,http://127.0.0.1:8080/mutant,0,0,0
+1622476645746,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-552,text,false,,2434,0,369,897,http://127.0.0.1:8080/mutant,0,0,2
+1622476645643,87,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-870,text,true,,176,246,369,835,http://127.0.0.1:8080/mutant,87,0,1
+1622476645643,86,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-716,text,true,,176,246,369,832,http://127.0.0.1:8080/mutant,86,0,3
+1622476645639,90,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-524,text,true,,176,246,369,831,http://127.0.0.1:8080/mutant,90,0,1
+1622476645643,86,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-712,text,true,,176,246,369,831,http://127.0.0.1:8080/mutant,86,0,2
+1622476645646,83,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-866,text,true,,176,246,369,829,http://127.0.0.1:8080/mutant,83,0,1
+1622476645644,84,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-688,text,true,,176,246,368,825,http://127.0.0.1:8080/mutant,84,0,1
+1622476645647,80,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-684,text,true,,176,246,368,822,http://127.0.0.1:8080/mutant,80,0,1
+1622476645646,81,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-528,text,true,,176,246,368,821,http://127.0.0.1:8080/mutant,81,0,1
+1622476645647,80,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-924,text,true,,176,246,368,819,http://127.0.0.1:8080/mutant,80,0,1
+1622476645713,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-644,text,false,,2434,0,368,727,http://127.0.0.1:8080/mutant,0,0,1
+1622476645663,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-536,text,false,,2434,0,368,725,http://127.0.0.1:8080/mutant,0,0,1
+1622476645662,51,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-612,text,false,,2434,0,368,724,http://127.0.0.1:8080/mutant,0,0,51
+1622476644219,1490,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-929,text,true,,176,246,368,695,http://127.0.0.1:8080/mutant,1490,0,1268
+1622476644229,1480,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-941,text,true,,176,246,368,695,http://127.0.0.1:8080/mutant,1480,0,1255
+1622476645663,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-636,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,0
+1622476645662,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-620,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,1
+1622476645661,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-648,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,0
+1622476645660,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-652,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,0
+1622476645659,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-632,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,1
+1622476645659,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-660,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,0
+1622476645656,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-640,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,1
+1622476645655,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-668,text,false,,2434,0,368,695,http://127.0.0.1:8080/mutant,0,0,2
+1622476645655,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-928,text,false,,2434,0,368,694,http://127.0.0.1:8080/mutant,0,0,0
+1622476645654,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-900,text,false,,2434,0,368,694,http://127.0.0.1:8080/mutant,0,0,0
+1622476645653,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-676,text,false,,2434,0,368,694,http://127.0.0.1:8080/mutant,0,0,0
+1622476645652,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-680,text,false,,2434,0,367,693,http://127.0.0.1:8080/mutant,0,0,1
+1622476645650,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-656,text,false,,2434,0,367,692,http://127.0.0.1:8080/mutant,0,0,1
+1622476645650,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-916,text,false,,2434,0,367,692,http://127.0.0.1:8080/mutant,0,0,1
+1622476645650,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-664,text,false,,2434,0,367,692,http://127.0.0.1:8080/mutant,0,0,0
+1622476645649,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-692,text,false,,2434,0,367,692,http://127.0.0.1:8080/mutant,0,0,0
+1622476645648,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-696,text,false,,2434,0,367,692,http://127.0.0.1:8080/mutant,0,0,1
+1622476645628,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-888,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,18,0,1
+1622476645629,13,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-704,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,13,0,1
+1622476643191,2436,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-540,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,1153,0,620
+1622476645629,10,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-378,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,9,0,1
+1622476643234,2399,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-483,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,1022,0,599
+1622476643188,2443,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-417,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,2443,0,562
+1622476643656,1968,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-463,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,1968,0,1
+1622476643689,1933,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-996,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,1933,0,1
+1622476643696,1923,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-994,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,1923,0,4
+1622476644225,1308,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-937,text,true,,176,246,367,692,http://127.0.0.1:8080/mutant,1299,0,1257
+1622476644279,1235,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-918,text,true,,176,246,367,686,http://127.0.0.1:8080/mutant,1233,0,1202
+1622476643192,2296,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-580,text,true,,176,246,367,663,http://127.0.0.1:8080/mutant,2296,0,634
+1622476643218,2269,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-455,text,true,,176,246,367,662,http://127.0.0.1:8080/mutant,2269,0,551
+1622476643196,2291,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-608,text,true,,176,246,367,662,http://127.0.0.1:8080/mutant,2291,0,722
+1622476643213,2271,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-628,text,true,,176,246,367,658,http://127.0.0.1:8080/mutant,2271,0,612
+1622476643215,2269,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-416,text,true,,176,246,367,658,http://127.0.0.1:8080/mutant,2269,0,790
+1622476643216,2267,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-433,text,true,,176,246,367,656,http://127.0.0.1:8080/mutant,2267,0,562
+1622476643192,2291,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-421,text,true,,176,246,367,656,http://127.0.0.1:8080/mutant,2291,0,586
+1622476643771,1712,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-980,text,true,,176,246,367,656,http://127.0.0.1:8080/mutant,1712,0,8
+1622476643788,1689,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-992,text,true,,176,246,367,643,http://127.0.0.1:8080/mutant,1689,0,5
+1622476643782,1694,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-984,text,true,,176,246,367,643,http://127.0.0.1:8080/mutant,1694,0,4
+1622476643795,1681,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-988,text,true,,176,246,367,643,http://127.0.0.1:8080/mutant,1681,0,3
+1622476643245,2230,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-443,text,true,,176,246,367,642,http://127.0.0.1:8080/mutant,2230,0,592
+1622476643239,2236,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-491,text,true,,176,246,367,642,http://127.0.0.1:8080/mutant,2236,0,598
+1622476643224,2250,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-467,text,true,,176,246,367,642,http://127.0.0.1:8080/mutant,2250,0,583
+1622476644274,1196,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-914,text,true,,176,246,367,638,http://127.0.0.1:8080/mutant,1195,0,1157
+1622476644282,1183,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-922,text,true,,176,246,367,635,http://127.0.0.1:8080/mutant,1183,0,1155
+1622476644299,1160,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-925,text,true,,176,246,367,634,http://127.0.0.1:8080/mutant,1160,0,1138
+1622476644338,1121,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-942,text,true,,176,246,367,634,http://127.0.0.1:8080/mutant,1114,0,1083
+1622476644375,1074,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-532,text,true,,176,246,367,632,http://127.0.0.1:8080/mutant,1073,0,1053
+1622476644391,1057,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-588,text,true,,176,246,367,631,http://127.0.0.1:8080/mutant,1057,0,1033
+1622476643823,1619,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-974,text,true,,176,246,367,631,http://127.0.0.1:8080/mutant,1619,0,2
+1622476643249,2191,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-672,text,true,,176,246,367,631,http://127.0.0.1:8080/mutant,2191,0,649
+1622476643250,2188,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-445,text,true,,176,246,367,633,http://127.0.0.1:8080/mutant,2188,0,586
+1622476643844,1593,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-957,text,true,,176,246,367,633,http://127.0.0.1:8080/mutant,1593,0,2
+1622476643848,1587,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-965,text,true,,176,246,367,636,http://127.0.0.1:8080/mutant,1587,0,2
+1622476643880,1552,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-945,text,true,,176,246,367,638,http://127.0.0.1:8080/mutant,1552,0,2
+1622476643876,1556,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-949,text,true,,176,246,367,638,http://127.0.0.1:8080/mutant,1556,0,2
+1622476644487,942,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-760,text,true,,176,246,367,638,http://127.0.0.1:8080/mutant,939,0,806
+1622476643885,1544,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-961,text,true,,176,246,367,638,http://127.0.0.1:8080/mutant,1544,0,2
+1622476643892,1533,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-976,text,true,,176,246,367,640,http://127.0.0.1:8080/mutant,1533,0,63
+1622476643907,1517,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-968,text,true,,176,246,367,639,http://127.0.0.1:8080/mutant,1517,0,2
+1622476643913,1505,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-956,text,true,,176,246,367,642,http://127.0.0.1:8080/mutant,1505,0,2
+1622476643920,1498,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-960,text,true,,176,246,367,642,http://127.0.0.1:8080/mutant,1498,0,38
+1622476644411,1003,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-568,text,true,,176,246,367,642,http://127.0.0.1:8080/mutant,987,0,904
+1622476644400,1011,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-890,text,true,,176,246,367,640,http://127.0.0.1:8080/mutant,1011,0,923
+1622476644410,996,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-886,text,true,,176,246,367,637,http://127.0.0.1:8080/mutant,996,0,912
+1622476644408,997,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-576,text,true,,176,246,367,636,http://127.0.0.1:8080/mutant,997,0,913
+1622476644387,1014,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-592,text,true,,176,246,367,632,http://127.0.0.1:8080/mutant,1013,0,935
+1622476644398,996,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-584,text,true,,176,246,367,630,http://127.0.0.1:8080/mutant,995,0,918
+1622476644383,1004,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-604,text,true,,176,246,366,628,http://127.0.0.1:8080/mutant,1002,0,932
+1622476644380,1005,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-616,text,true,,176,246,366,627,http://127.0.0.1:8080/mutant,1005,0,934
+1622476644404,971,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-902,text,true,,176,246,366,626,http://127.0.0.1:8080/mutant,971,0,907
+1622476644405,967,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-572,text,true,,176,246,366,625,http://127.0.0.1:8080/mutant,967,0,905
+1622476644394,978,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-600,text,true,,176,246,366,625,http://127.0.0.1:8080/mutant,978,0,916
+1622476644459,909,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-708,text,true,,176,246,366,624,http://127.0.0.1:8080/mutant,909,0,851
+1622476644370,998,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-544,text,true,,176,246,366,624,http://127.0.0.1:8080/mutant,997,0,939
+1622476644414,949,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-910,text,true,,176,246,366,622,http://127.0.0.1:8080/mutant,948,0,892
+1622476644407,956,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-894,text,true,,176,246,366,622,http://127.0.0.1:8080/mutant,956,0,901
+1622476644422,937,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-560,text,true,,176,246,366,621,http://127.0.0.1:8080/mutant,936,0,883
+1622476644402,955,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-596,text,true,,176,246,366,620,http://127.0.0.1:8080/mutant,955,0,903
+1622476644480,876,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-720,text,true,,176,246,366,620,http://127.0.0.1:8080/mutant,873,0,824
+1622476644461,895,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-898,text,true,,176,246,366,620,http://127.0.0.1:8080/mutant,892,0,844
+1622476646711,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-702,text,false,,2434,0,636,1504,http://127.0.0.1:8080/mutant,0,0,0
+1622476646721,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-659,text,false,,2434,0,635,1495,http://127.0.0.1:8080/mutant,0,0,1
+1622476646724,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-462,text,false,,2434,0,634,1493,http://127.0.0.1:8080/mutant,0,0,0
+1622476646724,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-519,text,false,,2434,0,633,1492,http://127.0.0.1:8080/mutant,0,0,1
+1622476646726,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-366,text,false,,2434,0,632,1491,http://127.0.0.1:8080/mutant,0,0,0
+1622476646728,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-454,text,false,,2434,0,631,1487,http://127.0.0.1:8080/mutant,0,0,1
+1622476646729,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-667,text,false,,2434,0,630,1487,http://127.0.0.1:8080/mutant,0,0,1
+1622476646731,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-639,text,false,,2434,0,629,1486,http://127.0.0.1:8080/mutant,0,0,1
+1622476646733,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-539,text,false,,2434,0,628,1485,http://127.0.0.1:8080/mutant,0,0,0
+1622476646728,6,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-362,text,false,,2434,0,628,1484,http://127.0.0.1:8080/mutant,0,0,6
+1622476646735,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-698,text,false,,2434,0,627,1484,http://127.0.0.1:8080/mutant,0,0,1
+1622476646737,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-633,text,false,,2434,0,627,1483,http://127.0.0.1:8080/mutant,0,0,0
+1622476646736,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-523,text,false,,2434,0,626,1482,http://127.0.0.1:8080/mutant,0,0,1
+1622476646738,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-434,text,false,,2434,0,625,1482,http://127.0.0.1:8080/mutant,0,0,1
+1622476646743,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-482,text,false,,2434,0,624,1483,http://127.0.0.1:8080/mutant,0,0,0
+1622476646744,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-527,text,false,,2434,0,623,1482,http://127.0.0.1:8080/mutant,0,0,0
+1622476646745,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-531,text,false,,2434,0,622,1480,http://127.0.0.1:8080/mutant,0,0,1
+1622476646751,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-754,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646752,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-543,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,0
+1622476646752,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-631,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646746,7,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-438,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,7
+1622476646754,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-690,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646754,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-635,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646755,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-553,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646756,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-621,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,0
+1622476646756,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-617,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646758,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-625,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,0
+1622476646758,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-461,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,0
+1622476646757,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-663,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,2
+1622476646759,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-565,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646753,7,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-442,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,7
+1622476646760,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-374,text,false,,2434,0,621,1475,http://127.0.0.1:8080/mutant,0,0,1
+1622476646762,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-686,text,false,,2434,0,620,1474,http://127.0.0.1:8080/mutant,0,0,0
+1622476646764,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-627,text,false,,2434,0,619,1472,http://127.0.0.1:8080/mutant,0,0,0
+1622476646765,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-457,text,false,,2434,0,618,1471,http://127.0.0.1:8080/mutant,0,0,1
+1622476646777,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-477,text,false,,2434,0,617,1468,http://127.0.0.1:8080/mutant,0,0,1
+1622476646782,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-465,text,false,,2434,0,616,1467,http://127.0.0.1:8080/mutant,0,0,0
+1622476646790,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-623,text,false,,2434,0,615,1466,http://127.0.0.1:8080/mutant,0,0,0
+1622476646792,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-473,text,false,,2434,0,614,1465,http://127.0.0.1:8080/mutant,0,0,0
+1622476646794,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-481,text,false,,2434,0,613,1464,http://127.0.0.1:8080/mutant,0,0,0
+1622476646796,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-485,text,false,,2434,0,612,1463,http://127.0.0.1:8080/mutant,0,0,0
+1622476646801,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-501,text,false,,2434,0,611,1462,http://127.0.0.1:8080/mutant,0,0,1
+1622476646802,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-450,text,false,,2434,0,610,1461,http://127.0.0.1:8080/mutant,0,0,1
+1622476646802,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-489,text,false,,2434,0,609,1460,http://127.0.0.1:8080/mutant,0,0,2
+1622476646803,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-447,text,false,,2434,0,609,1460,http://127.0.0.1:8080/mutant,0,0,1
+1622476646806,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-497,text,false,,2434,0,608,1461,http://127.0.0.1:8080/mutant,0,0,1
+1622476644476,873,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-926,text,true,,176,246,366,618,http://127.0.0.1:8080/mutant,873,0,824
+1622476646806,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-509,text,false,,2434,0,607,1461,http://127.0.0.1:8080/mutant,0,0,2
+1622476644486,855,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-911,text,true,,176,246,366,616,http://127.0.0.1:8080/mutant,854,0,805
+1622476646806,5,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-742,text,false,,2434,0,606,1460,http://127.0.0.1:8080/mutant,0,0,5
+1622476644464,877,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-878,text,true,,176,246,366,616,http://127.0.0.1:8080/mutant,877,0,828
+1622476644472,866,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-564,text,true,,176,246,366,615,http://127.0.0.1:8080/mutant,863,0,817
+1622476644459,877,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-874,text,true,,176,246,366,614,http://127.0.0.1:8080/mutant,876,0,831
+1622476644507,828,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-508,text,true,,176,246,366,614,http://127.0.0.1:8080/mutant,828,0,782
+1622476646804,9,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-446,text,false,,2434,0,605,1459,http://127.0.0.1:8080/mutant,0,0,9
+1622476643842,1482,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-958,text,true,,176,246,366,615,http://127.0.0.1:8080/mutant,1482,0,95
+1622476643931,1393,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-944,text,true,,176,246,366,615,http://127.0.0.1:8080/mutant,1393,0,4
+1622476643938,1386,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-948,text,true,,176,246,366,615,http://127.0.0.1:8080/mutant,1386,0,2
+1622476643941,1381,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-966,text,true,,176,246,366,614,http://127.0.0.1:8080/mutant,1381,0,2
+1622476643943,1378,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-952,text,true,,176,246,366,614,http://127.0.0.1:8080/mutant,1378,0,2
+1622476643959,1360,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-962,text,true,,176,246,366,617,http://127.0.0.1:8080/mutant,1360,0,3
+1622476644179,1124,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-933,text,true,,176,246,366,618,http://127.0.0.1:8080/mutant,1124,0,2
+1622476643945,1358,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-954,text,true,,176,246,366,618,http://127.0.0.1:8080/mutant,1358,0,2
+1622476644162,1140,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-934,text,true,,176,246,366,617,http://127.0.0.1:8080/mutant,1140,0,7
+1622476644130,1170,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-964,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1170,0,3
+1622476644187,1113,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-932,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1113,0,5
+1622476644206,1094,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-451,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1094,0,3
+1622476644165,1135,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-938,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1135,0,3
+1622476646807,19,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-517,text,false,,2434,0,604,1456,http://127.0.0.1:8080/mutant,0,0,19
+1622476646807,26,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-505,text,false,,2434,0,603,1454,http://127.0.0.1:8080/mutant,0,0,25
+1622476646807,28,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-654,text,false,,2434,0,602,1453,http://127.0.0.1:8080/mutant,0,0,28
+1622476646808,31,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-513,text,false,,2434,0,600,1451,http://127.0.0.1:8080/mutant,0,0,31
+1622476646809,32,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-521,text,false,,2434,0,599,1450,http://127.0.0.1:8080/mutant,0,0,32
+1622476646810,33,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-525,text,false,,2434,0,598,1449,http://127.0.0.1:8080/mutant,0,0,33
+1622476646809,40,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-650,text,false,,2434,0,597,1445,http://127.0.0.1:8080/mutant,0,0,40
+1622476646811,44,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-529,text,false,,2434,0,595,1441,http://127.0.0.1:8080/mutant,0,0,44
+1622476646811,46,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-533,text,false,,2434,0,594,1440,http://127.0.0.1:8080/mutant,0,0,46
+1622476646813,56,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-414,text,false,,2434,0,587,1431,http://127.0.0.1:8080/mutant,0,0,56
+1622476646814,59,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-386,text,false,,2434,0,586,1428,http://127.0.0.1:8080/mutant,0,0,59
+1622476646817,59,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-577,text,false,,2434,0,584,1426,http://127.0.0.1:8080/mutant,0,0,59
+1622476646815,72,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-558,text,false,,2434,0,580,1421,http://127.0.0.1:8080/mutant,0,0,72
+1622476646816,91,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-382,text,false,,2434,0,579,1423,http://127.0.0.1:8080/mutant,0,0,91
+1622476646817,94,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-646,text,false,,2434,0,578,1422,http://127.0.0.1:8080/mutant,0,0,94
+1622476646821,97,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-585,text,false,,2434,0,576,1431,http://127.0.0.1:8080/mutant,0,0,97
+1622476646819,103,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-613,text,false,,2434,0,574,1434,http://127.0.0.1:8080/mutant,0,0,103
+1622476646818,116,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-551,text,false,,2434,0,573,1438,http://127.0.0.1:8080/mutant,0,0,116
+1622476646818,118,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-559,text,false,,2434,0,572,1439,http://127.0.0.1:8080/mutant,0,0,117
+1622476646818,119,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-555,text,false,,2434,0,571,1440,http://127.0.0.1:8080/mutant,0,0,119
+1622476646820,118,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-567,text,false,,2434,0,570,1440,http://127.0.0.1:8080/mutant,0,0,118
+1622476646822,117,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-571,text,false,,2434,0,570,1440,http://127.0.0.1:8080/mutant,0,0,117
+1622476646823,117,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-575,text,false,,2434,0,569,1439,http://127.0.0.1:8080/mutant,0,0,117
+1622476646823,118,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-611,text,false,,2434,0,568,1438,http://127.0.0.1:8080/mutant,0,0,118
+1622476646824,119,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-583,text,false,,2434,0,567,1440,http://127.0.0.1:8080/mutant,0,0,119
+1622476646825,120,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-642,text,false,,2434,0,567,1441,http://127.0.0.1:8080/mutant,0,0,120
+1622476646816,130,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-599,text,false,,2434,0,567,1443,http://127.0.0.1:8080/mutant,0,0,130
+1622476646825,123,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-587,text,false,,2434,0,566,1444,http://127.0.0.1:8080/mutant,0,0,123
+1622476646826,125,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-591,text,false,,2434,0,565,1449,http://127.0.0.1:8080/mutant,0,0,125
+1622476646828,124,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-589,text,false,,2434,0,564,1450,http://127.0.0.1:8080/mutant,0,0,124
+1622476646828,126,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-609,text,false,,2434,0,563,1452,http://127.0.0.1:8080/mutant,0,0,126
+1622476646829,127,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-593,text,false,,2434,0,562,1459,http://127.0.0.1:8080/mutant,0,0,127
+1622476646830,128,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-597,text,false,,2434,0,561,1460,http://127.0.0.1:8080/mutant,0,0,128
+1622476646827,136,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-897,text,false,,2434,0,561,1472,http://127.0.0.1:8080/mutant,0,0,136
+1622476646829,137,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-601,text,false,,2434,0,560,1474,http://127.0.0.1:8080/mutant,0,0,137
+1622476646832,136,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-607,text,false,,2434,0,559,1478,http://127.0.0.1:8080/mutant,0,0,136
+1622476646827,148,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-530,text,false,,2434,0,558,1486,http://127.0.0.1:8080/mutant,0,0,147
+1622476646834,148,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-605,text,false,,2434,0,558,1482,http://127.0.0.1:8080/mutant,0,0,148
+1622476646833,150,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-722,text,false,,2434,0,558,1481,http://127.0.0.1:8080/mutant,0,0,150
+1622476646834,151,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-638,text,false,,2434,0,557,1482,http://127.0.0.1:8080/mutant,0,0,151
+1622476646836,153,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-634,text,false,,2434,0,556,1483,http://127.0.0.1:8080/mutant,0,0,153
+1622476646841,168,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-812,text,false,,2434,0,555,1477,http://127.0.0.1:8080/mutant,0,0,168
+1622476646842,174,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-832,text,false,,2434,0,554,1476,http://127.0.0.1:8080/mutant,0,0,174
+1622476646844,185,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-764,text,false,,2434,0,553,1472,http://127.0.0.1:8080/mutant,0,0,185
+1622476646846,184,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-841,text,false,,2434,0,552,1471,http://127.0.0.1:8080/mutant,0,0,184
+1622476646850,191,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-833,text,false,,2434,0,551,1458,http://127.0.0.1:8080/mutant,0,0,191
+1622476646859,205,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-839,text,false,,2434,0,550,1443,http://127.0.0.1:8080/mutant,0,0,205
+1622476643422,14,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-466,text,true,,176,246,184,227,http://127.0.0.1:8080/mutant,14,0,3
+1622476643955,1345,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-970,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1345,0,127
+1622476646862,223,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-422,text,false,,2434,0,549,1437,http://127.0.0.1:8080/mutant,0,0,223
+1622476646862,229,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-469,text,false,,2434,0,549,1437,http://127.0.0.1:8080/mutant,0,0,229
+1622476646867,241,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-835,text,false,,2434,0,549,1437,http://127.0.0.1:8080/mutant,0,0,241
+1622476646868,243,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-573,text,false,,2434,0,549,1437,http://127.0.0.1:8080/mutant,0,0,243
+1622476644085,1215,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-946,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1215,0,2
+1622476646869,248,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-535,text,false,,2434,0,549,1437,http://127.0.0.1:8080/mutant,0,0,248
+1622476646869,249,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-561,text,false,,2434,0,549,1437,http://127.0.0.1:8080/mutant,0,0,249
+1622476646871,259,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-478,text,false,,2434,0,549,1436,http://127.0.0.1:8080/mutant,0,0,259
+1622476646873,258,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-637,text,false,,2434,0,548,1435,http://127.0.0.1:8080/mutant,0,0,258
+1622476646872,260,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-674,text,false,,2434,0,547,1434,http://127.0.0.1:8080/mutant,0,0,260
+1622476646874,261,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-458,text,false,,2434,0,546,1431,http://127.0.0.1:8080/mutant,0,0,261
+1622476646873,264,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-678,text,false,,2434,0,545,1429,http://127.0.0.1:8080/mutant,0,0,264
+1622476646875,263,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-630,text,false,,2434,0,544,1428,http://127.0.0.1:8080/mutant,0,0,263
+1622476646875,265,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-827,text,false,,2434,0,543,1426,http://127.0.0.1:8080/mutant,0,0,265
+1622476646876,267,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-470,text,false,,2434,0,542,1425,http://127.0.0.1:8080/mutant,0,0,267
+1622476646877,283,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-498,text,false,,2434,0,541,1420,http://127.0.0.1:8080/mutant,0,0,283
+1622476646880,289,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-831,text,false,,2434,0,540,1414,http://127.0.0.1:8080/mutant,0,0,289
+1622476646883,287,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-516,text,false,,2434,0,539,1411,http://127.0.0.1:8080/mutant,0,0,287
+1622476646884,286,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-856,text,false,,2434,0,539,1411,http://127.0.0.1:8080/mutant,0,0,286
+1622476646886,285,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-844,text,false,,2434,0,537,1409,http://127.0.0.1:8080/mutant,0,0,285
+1622476646886,286,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-783,text,false,,2434,0,536,1408,http://127.0.0.1:8080/mutant,0,0,286
+1622476646882,291,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-903,text,false,,2434,0,535,1407,http://127.0.0.1:8080/mutant,0,0,291
+1622476646888,286,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-496,text,false,,2434,0,534,1405,http://127.0.0.1:8080/mutant,0,0,286
+1622476646887,287,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-860,text,false,,2434,0,534,1405,http://127.0.0.1:8080/mutant,0,0,287
+1622476644074,1225,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-986,text,true,,176,246,366,619,http://127.0.0.1:8080/mutant,1225,0,2
+1622476644156,1139,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-930,text,true,,176,246,366,620,http://127.0.0.1:8080/mutant,1139,0,3
+1622476644182,1113,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-936,text,true,,176,246,366,620,http://127.0.0.1:8080/mutant,1113,0,2
+1622476644466,818,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-724,text,true,,176,246,366,609,http://127.0.0.1:8080/mutant,818,0,797
+1622476644470,810,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-736,text,true,,176,246,366,605,http://127.0.0.1:8080/mutant,810,0,792
+1622476644490,789,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-907,text,true,,176,246,366,604,http://127.0.0.1:8080/mutant,789,0,772
+1622476646905,271,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-861,text,false,,2434,0,534,1401,http://127.0.0.1:8080/mutant,0,0,271
+1622476644463,813,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-520,text,true,,176,246,366,602,http://127.0.0.1:8080/mutant,812,0,794
+1622476644484,791,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-756,text,true,,176,246,366,602,http://127.0.0.1:8080/mutant,791,0,778
+1622476644476,796,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-464,text,true,,176,246,366,601,http://127.0.0.1:8080/mutant,795,0,780
+1622476644492,778,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-776,text,true,,176,246,366,601,http://127.0.0.1:8080/mutant,778,0,764
+1622476644499,769,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-880,text,true,,176,246,366,600,http://127.0.0.1:8080/mutant,768,0,757
+1622476644501,765,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-700,text,true,,176,246,366,599,http://127.0.0.1:8080/mutant,764,0,746
+1622476644495,769,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-728,text,true,,176,246,366,598,http://127.0.0.1:8080/mutant,769,0,750
+1622476643149,2097,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-448,text,true,,176,246,366,567,http://127.0.0.1:8080/mutant,2097,0,518
+1622476643653,1561,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-459,text,true,,176,246,366,484,http://127.0.0.1:8080/mutant,1561,0,1
+1622476643163,2049,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-284,text,true,,176,246,366,482,http://127.0.0.1:8080/mutant,2049,0,513
+1622476644518,694,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-915,text,true,,176,246,366,482,http://127.0.0.1:8080/mutant,693,0,678
+1622476644521,687,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-876,text,true,,176,246,366,482,http://127.0.0.1:8080/mutant,686,0,681
+1622476643598,817,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-967,text,true,,176,246,287,403,http://127.0.0.1:8080/mutant,817,0,0
+1622476643607,808,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-983,text,true,,176,246,287,403,http://127.0.0.1:8080/mutant,808,0,1
+1622476643619,773,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-998,text,true,,176,246,276,390,http://127.0.0.1:8080/mutant,773,0,1
+1622476643145,1237,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-440,text,true,,176,246,274,388,http://127.0.0.1:8080/mutant,1217,0,666
+1622476642840,540,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-122,text,true,,176,246,173,216,http://127.0.0.1:8080/mutant,540,0,536
+1622476643175,1181,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-423,text,true,,176,246,265,373,http://127.0.0.1:8080/mutant,1181,0,593
+1622476643197,1159,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-429,text,true,,176,246,265,373,http://127.0.0.1:8080/mutant,1158,0,554
+1622476643224,1126,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-471,text,true,,176,246,265,373,http://127.0.0.1:8080/mutant,1126,0,586
+1622476643229,1111,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-479,text,true,,176,246,265,373,http://127.0.0.1:8080/mutant,1110,0,585
+1622476646890,291,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-830,text,false,,2434,0,534,1400,http://127.0.0.1:8080/mutant,0,0,291
+1622476643240,1097,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-334,text,true,,176,246,265,373,http://127.0.0.1:8080/mutant,1096,0,527
+1622476643233,1096,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-439,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,1094,0,534
+1622476643224,1104,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-437,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,1104,0,531
+1622476643211,1113,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-431,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,1112,0,560
+1622476643752,569,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-989,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,568,0,6
+1622476643195,1124,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-425,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,1124,0,573
+1622476643222,1091,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-435,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,1091,0,584
+1622476643725,586,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-977,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,586,0,25
+1622476643728,580,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-981,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,580,0,22
+1622476643248,1050,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-338,text,true,,176,246,264,372,http://127.0.0.1:8080/mutant,1046,0,515
+1622476643210,1086,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-624,text,true,,176,246,263,371,http://127.0.0.1:8080/mutant,1086,0,549
+1622476643233,1056,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-441,text,true,,176,246,263,368,http://127.0.0.1:8080/mutant,1055,0,530
+1622476643729,555,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-982,text,true,,176,246,263,367,http://127.0.0.1:8080/mutant,555,0,21
+1622476643732,545,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-985,text,true,,176,246,262,366,http://127.0.0.1:8080/mutant,544,0,23
+1622476643250,1026,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-342,text,true,,176,246,261,365,http://127.0.0.1:8080/mutant,1026,0,512
+1622476643204,1062,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-453,text,true,,176,246,260,364,http://127.0.0.1:8080/mutant,1061,0,558
+1622476643188,1075,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-484,text,true,,176,246,260,364,http://127.0.0.1:8080/mutant,1075,0,627
+1622476643726,530,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-978,text,true,,176,246,260,364,http://127.0.0.1:8080/mutant,530,0,24
+1622476643244,1006,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-495,text,true,,176,246,260,364,http://127.0.0.1:8080/mutant,1006,0,594
+1622476643142,1089,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-432,text,true,,176,246,260,364,http://127.0.0.1:8080/mutant,1089,0,495
+1622476643167,1048,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-296,text,true,,176,246,257,359,http://127.0.0.1:8080/mutant,1048,0,500
+1622476643613,566,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-475,text,true,,176,246,254,359,http://127.0.0.1:8080/mutant,566,0,1
+1622476643619,551,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-997,text,true,,176,246,253,359,http://127.0.0.1:8080/mutant,550,0,1
+1622476643619,538,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-1000,text,true,,176,246,251,358,http://127.0.0.1:8080/mutant,537,0,2
+1622476643602,520,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-975,text,true,,176,246,249,357,http://127.0.0.1:8080/mutant,519,0,1
+1622476643609,517,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-987,text,true,,176,246,249,357,http://127.0.0.1:8080/mutant,517,0,1
+1622476643601,534,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-971,text,true,,176,246,250,358,http://127.0.0.1:8080/mutant,533,0,0
+1622476643611,528,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-999,text,true,,176,246,250,359,http://127.0.0.1:8080/mutant,528,0,0
+1622476643609,492,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-991,text,true,,176,246,249,360,http://127.0.0.1:8080/mutant,491,0,1
+1622476643610,488,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-995,text,true,,176,246,249,360,http://127.0.0.1:8080/mutant,487,0,0
+1622476643594,503,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-955,text,true,,176,246,249,360,http://127.0.0.1:8080/mutant,503,0,1
+1622476643596,501,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-963,text,true,,176,246,249,360,http://127.0.0.1:8080/mutant,501,0,1
+1622476643604,493,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-979,text,true,,176,246,249,360,http://127.0.0.1:8080/mutant,493,0,0
+1622476643687,397,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-993,text,true,,176,246,249,361,http://127.0.0.1:8080/mutant,396,0,3
+1622476643592,473,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-959,text,true,,176,246,247,361,http://127.0.0.1:8080/mutant,473,0,1
+1622476643589,474,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-951,text,true,,176,246,247,361,http://127.0.0.1:8080/mutant,474,0,1
+1622476643586,475,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-947,text,true,,176,246,247,361,http://127.0.0.1:8080/mutant,475,0,1
+1622476643585,474,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-943,text,true,,176,246,247,361,http://127.0.0.1:8080/mutant,473,0,1
+1622476643582,476,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-939,text,true,,176,246,247,361,http://127.0.0.1:8080/mutant,476,0,1
+1622476643577,472,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-931,text,true,,176,246,247,364,http://127.0.0.1:8080/mutant,471,0,1
+1622476643574,471,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-923,text,true,,176,246,247,364,http://127.0.0.1:8080/mutant,470,0,1
+1622476643575,434,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-927,text,true,,176,246,247,375,http://127.0.0.1:8080/mutant,434,0,1
+1622476643572,437,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-919,text,true,,176,246,247,375,http://127.0.0.1:8080/mutant,437,0,1
+1622476643579,430,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-935,text,true,,176,246,247,375,http://127.0.0.1:8080/mutant,430,0,0
+1622476643143,816,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-436,text,true,,176,246,247,377,http://127.0.0.1:8080/mutant,816,0,517
+1622476643147,811,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-444,text,true,,176,246,247,376,http://127.0.0.1:8080/mutant,811,0,514
+1622476643487,462,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-972,text,true,,176,246,246,373,http://127.0.0.1:8080/mutant,462,0,1
+1622476643493,428,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-487,text,true,,176,246,240,366,http://127.0.0.1:8080/mutant,427,0,0
+1622476643445,462,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-507,text,true,,176,246,238,364,http://127.0.0.1:8080/mutant,460,0,45
+1622476643491,405,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-969,text,true,,176,246,237,360,http://127.0.0.1:8080/mutant,403,0,1
+1622476643488,396,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-973,text,true,,176,246,236,358,http://127.0.0.1:8080/mutant,395,0,1
+1622476643476,316,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-990,text,true,,176,246,228,335,http://127.0.0.1:8080/mutant,314,0,1
+1622476643166,610,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-677,text,true,,176,246,226,330,http://127.0.0.1:8080/mutant,609,0,510
+1622476643421,68,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-449,text,true,,176,246,187,206,http://127.0.0.1:8080/mutant,68,0,2
+1622476643423,66,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-406,text,true,,176,246,187,208,http://127.0.0.1:8080/mutant,66,0,3
+1622476643426,63,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-917,text,true,,176,246,187,208,http://127.0.0.1:8080/mutant,63,0,1
+1622476643426,63,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-912,text,true,,176,246,187,208,http://127.0.0.1:8080/mutant,62,0,8
+1622476643427,60,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-418,text,true,,176,246,186,209,http://127.0.0.1:8080/mutant,60,0,3
+1622476643428,59,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-913,text,true,,176,246,186,209,http://127.0.0.1:8080/mutant,59,0,0
+1622476643429,57,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-940,text,true,,176,246,185,213,http://127.0.0.1:8080/mutant,57,0,4
+1622476643426,60,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-402,text,true,,176,246,185,215,http://127.0.0.1:8080/mutant,60,0,5
+1622476643433,52,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-891,text,true,,176,246,185,218,http://127.0.0.1:8080/mutant,52,0,1
+1622476643434,51,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-953,text,true,,176,246,185,218,http://127.0.0.1:8080/mutant,51,0,1
+1622476646907,289,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-845,text,false,,2434,0,533,1396,http://127.0.0.1:8080/mutant,0,0,289
+1622476643434,51,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-950,text,true,,176,246,185,218,http://127.0.0.1:8080/mutant,51,0,1
+1622476643422,21,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-394,text,true,,176,246,184,226,http://127.0.0.1:8080/mutant,21,0,7
+1622476643424,18,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-398,text,true,,176,246,184,226,http://127.0.0.1:8080/mutant,18,0,2
+1622476646888,289,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-779,text,false,,2434,0,534,1401,http://127.0.0.1:8080/mutant,0,0,289
+1622476646895,282,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-793,text,false,,2434,0,534,1401,http://127.0.0.1:8080/mutant,0,0,282
+1622476646894,283,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-797,text,false,,2434,0,534,1401,http://127.0.0.1:8080/mutant,0,0,283
+1622476646557,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-641,text,false,,2434,0,644,1495,http://127.0.0.1:8080/mutant,0,0,0
+1622476642770,621,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-142,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,621,0,3
+1622476642791,600,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-269,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,600,0,1
+1622476642900,491,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-381,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,491,0,1
+1622476646498,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-657,text,false,,2434,0,644,1479,http://127.0.0.1:8080/mutant,0,0,1
+1622476643081,310,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-143,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,310,0,11
+1622476643080,310,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-139,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,310,0,12
+1622476642847,543,DNA sequence request,200,,Massive dna sequences checking (Mutant) 1-363,text,true,,176,246,172,215,http://127.0.0.1:8080/mutant,543,0,1
+1622476646927,301,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-826,text,false,,2434,0,530,1348,http://127.0.0.1:8080/mutant,0,0,301
+1622476646928,301,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-825,text,false,,2434,0,529,1347,http://127.0.0.1:8080/mutant,0,0,301
+1622476646928,302,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-823,text,false,,2434,0,528,1346,http://127.0.0.1:8080/mutant,0,0,302
+1622476646930,301,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-819,text,false,,2434,0,527,1344,http://127.0.0.1:8080/mutant,0,0,301
+1622476646930,304,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-626,text,false,,2434,0,526,1338,http://127.0.0.1:8080/mutant,0,0,304
+1622476646931,304,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-822,text,false,,2434,0,525,1337,http://127.0.0.1:8080/mutant,0,0,304
+1622476646941,301,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-817,text,false,,2434,0,524,1324,http://127.0.0.1:8080/mutant,0,0,301
+1622476646944,302,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-843,text,false,,2434,0,523,1318,http://127.0.0.1:8080/mutant,0,0,302
+1622476647116,140,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-908,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,140
+1622476647113,145,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-682,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,145
+1622476647112,146,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-430,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,146
+1622476647111,148,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-658,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,148
+1622476647109,150,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-615,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,150
+1622476647109,151,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-410,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,151
+1622476647108,152,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-603,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,152
+1622476647106,154,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-730,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,154
+1622476647102,160,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-882,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,159
+1622476647100,162,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-829,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,162
+1622476647099,163,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-512,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,163
+1622476647099,163,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-732,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,163
+1622476647098,164,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-784,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,164
+1622476647099,163,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-800,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,163
+1622476647098,164,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-796,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,164
+1622476647098,165,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-780,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,165
+1622476647098,165,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-792,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,165
+1622476647098,165,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-816,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,165
+1622476647134,129,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-515,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,129
+1622476647097,166,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-752,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,166
+1622476647097,166,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-808,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,166
+1622476647097,166,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-748,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,166
+1622476647136,127,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-358,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,127
+1622476647097,166,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-904,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,166
+1622476647097,166,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-804,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,166
+1622476647096,168,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-744,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,168
+1622476647096,168,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-896,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,168
+1622476647095,169,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-768,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,169
+1622476647096,168,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-772,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,168
+1622476647095,169,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-892,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,169
+1622476647094,171,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-909,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,170
+1622476647094,171,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-788,text,false,,2434,0,522,1317,http://127.0.0.1:8080/mutant,0,0,170
+1622476647091,174,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-426,text,false,,2434,0,472,1265,http://127.0.0.1:8080/mutant,0,0,174
+1622476647093,172,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-837,text,false,,2434,0,472,1265,http://127.0.0.1:8080/mutant,0,0,172
+1622476647089,176,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-579,text,false,,2434,0,470,1247,http://127.0.0.1:8080/mutant,0,0,176
+1622476647085,180,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-838,text,false,,2434,0,469,1244,http://127.0.0.1:8080/mutant,0,0,180
+1622476647087,179,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-581,text,false,,2434,0,468,1237,http://127.0.0.1:8080/mutant,0,0,179
+1622476647086,180,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-821,text,false,,2434,0,468,1237,http://127.0.0.1:8080/mutant,0,0,180
+1622476647086,180,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-809,text,false,,2434,0,467,1234,http://127.0.0.1:8080/mutant,0,0,180
+1622476647086,180,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-595,text,false,,2434,0,467,1233,http://127.0.0.1:8080/mutant,0,0,180
+1622476647085,181,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-847,text,false,,2434,0,466,1230,http://127.0.0.1:8080/mutant,0,0,181
+1622476647085,181,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-879,text,false,,2434,0,465,1226,http://127.0.0.1:8080/mutant,0,0,181
+1622476647078,188,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-814,text,false,,2434,0,464,1213,http://127.0.0.1:8080/mutant,0,0,188
+1622476647076,190,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-805,text,false,,2434,0,463,1203,http://127.0.0.1:8080/mutant,0,0,190
+1622476647074,192,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-494,text,false,,2434,0,462,1200,http://127.0.0.1:8080/mutant,0,0,192
+1622476647070,196,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-618,text,false,,2434,0,461,1189,http://127.0.0.1:8080/mutant,0,0,196
+1622476647069,197,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-869,text,false,,2434,0,460,1181,http://127.0.0.1:8080/mutant,0,0,197
+1622476647069,197,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-522,text,false,,2434,0,460,1184,http://127.0.0.1:8080/mutant,0,0,197
+1622476647159,108,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-706,text,false,,2434,0,458,1170,http://127.0.0.1:8080/mutant,0,0,107
+1622476647067,200,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-562,text,false,,2434,0,457,1166,http://127.0.0.1:8080/mutant,0,0,200
+1622476647066,201,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-893,text,false,,2434,0,456,1163,http://127.0.0.1:8080/mutant,0,0,201
+1622476647066,201,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-574,text,false,,2434,0,455,1162,http://127.0.0.1:8080/mutant,0,0,201
+1622476647063,204,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-606,text,false,,2434,0,455,1162,http://127.0.0.1:8080/mutant,0,0,204
+1622476647066,309,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-840,text,false,,2434,0,454,1158,http://127.0.0.1:8080/mutant,0,0,201
+1622476647163,104,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-740,text,false,,2434,0,453,1149,http://127.0.0.1:8080/mutant,0,0,104
+1622476647163,104,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-884,text,false,,2434,0,453,1146,http://127.0.0.1:8080/mutant,0,0,104
+1622476647166,101,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-569,text,false,,2434,0,451,1115,http://127.0.0.1:8080/mutant,0,0,101
+1622476647032,237,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-854,text,false,,2434,0,451,1093,http://127.0.0.1:8080/mutant,0,0,237
+1622476647031,238,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-598,text,false,,2434,0,450,1092,http://127.0.0.1:8080/mutant,0,0,238
+1622476647026,245,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-602,text,false,,2434,0,449,1092,http://127.0.0.1:8080/mutant,0,0,245
+1622476647008,263,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-594,text,false,,2434,0,448,1082,http://127.0.0.1:8080/mutant,0,0,263
+1622476647008,264,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-590,text,false,,2434,0,447,1080,http://127.0.0.1:8080/mutant,0,0,264
+1622476647005,267,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-586,text,false,,2434,0,446,1076,http://127.0.0.1:8080/mutant,0,0,267
+1622476647004,268,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-582,text,false,,2434,0,444,1076,http://127.0.0.1:8080/mutant,0,0,268
+1622476646999,274,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-566,text,false,,2434,0,444,1073,http://127.0.0.1:8080/mutant,0,0,274
+1622476647000,273,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-610,text,false,,2434,0,444,1073,http://127.0.0.1:8080/mutant,0,0,273
+1622476646997,278,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-798,text,false,,2434,0,443,1065,http://127.0.0.1:8080/mutant,0,0,278
+1622476646996,279,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-578,text,false,,2434,0,442,1063,http://127.0.0.1:8080/mutant,0,0,279
+1622476646994,281,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-850,text,false,,2434,0,441,1062,http://127.0.0.1:8080/mutant,0,0,281
+1622476646994,281,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-526,text,false,,2434,0,440,1061,http://127.0.0.1:8080/mutant,0,0,281
+1622476646995,281,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-546,text,false,,2434,0,439,1059,http://127.0.0.1:8080/mutant,0,0,281
+1622476646994,282,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-554,text,false,,2434,0,438,1059,http://127.0.0.1:8080/mutant,0,0,282
+1622476646994,282,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-542,text,false,,2434,0,437,1056,http://127.0.0.1:8080/mutant,0,0,282
+1622476646993,283,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-550,text,false,,2434,0,436,1055,http://127.0.0.1:8080/mutant,0,0,283
+1622476646993,283,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-514,text,false,,2434,0,435,1052,http://127.0.0.1:8080/mutant,0,0,283
+1622476646993,283,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-853,text,false,,2434,0,434,1051,http://127.0.0.1:8080/mutant,0,0,283
+1622476646991,456,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-534,text,false,,2434,0,434,1049,http://127.0.0.1:8080/mutant,0,0,285
+1622476646991,285,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-570,text,false,,2434,0,433,1048,http://127.0.0.1:8080/mutant,0,0,285
+1622476646985,291,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-614,text,false,,2434,0,432,1044,http://127.0.0.1:8080/mutant,0,0,291
+1622476646987,289,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-538,text,false,,2434,0,432,1040,http://127.0.0.1:8080/mutant,0,0,289
+1622476646988,290,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-867,text,false,,2434,0,429,1043,http://127.0.0.1:8080/mutant,0,0,290
+1622476646986,292,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-851,text,false,,2434,0,429,1043,http://127.0.0.1:8080/mutant,0,0,292
+1622476646987,291,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-881,text,false,,2434,0,428,1042,http://127.0.0.1:8080/mutant,0,0,291
+1622476646983,295,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-518,text,false,,2434,0,428,1041,http://127.0.0.1:8080/mutant,0,0,295
+1622476646984,294,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-846,text,false,,2434,0,428,1042,http://127.0.0.1:8080/mutant,0,0,294
+1622476646984,294,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-803,text,false,,2434,0,427,1041,http://127.0.0.1:8080/mutant,0,0,294
+1622476646984,294,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-799,text,false,,2434,0,426,1039,http://127.0.0.1:8080/mutant,0,0,294
+1622476646978,300,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-807,text,false,,2434,0,425,1038,http://127.0.0.1:8080/mutant,0,0,300
+1622476646972,307,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-510,text,false,,2434,0,421,1027,http://127.0.0.1:8080/mutant,0,0,307
+1622476646971,308,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-802,text,false,,2434,0,421,1028,http://127.0.0.1:8080/mutant,0,0,308
+1622476646966,313,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-801,text,false,,2434,0,415,1013,http://127.0.0.1:8080/mutant,0,0,313
+1622476646965,315,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-502,text,false,,2434,0,414,1010,http://127.0.0.1:8080/mutant,0,0,315
+1622476646964,316,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-806,text,false,,2434,0,414,1009,http://127.0.0.1:8080/mutant,0,0,316
+1622476646963,317,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-490,text,false,,2434,0,413,1008,http://127.0.0.1:8080/mutant,0,0,317
+1622476646960,320,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-810,text,false,,2434,0,413,1009,http://127.0.0.1:8080/mutant,0,0,320
+1622476646961,319,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-506,text,false,,2434,0,412,1008,http://127.0.0.1:8080/mutant,0,0,319
+1622476646960,320,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-813,text,false,,2434,0,410,1001,http://127.0.0.1:8080/mutant,0,0,320
+1622476646959,321,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-486,text,false,,2434,0,410,1001,http://127.0.0.1:8080/mutant,0,0,321
+1622476646958,322,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-811,text,false,,2434,0,410,999,http://127.0.0.1:8080/mutant,0,0,322
+1622476646952,328,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-818,text,false,,2434,0,406,986,http://127.0.0.1:8080/mutant,0,0,328
+1622476646953,327,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-815,text,false,,2434,0,406,985,http://127.0.0.1:8080/mutant,0,0,327
+1622476646950,330,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-622,text,false,,2434,0,406,984,http://127.0.0.1:8080/mutant,0,0,330
+1622476646950,330,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-842,text,false,,2434,0,406,984,http://127.0.0.1:8080/mutant,0,0,330
+1622476646947,333,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-834,text,false,,2434,0,404,983,http://127.0.0.1:8080/mutant,0,0,333
+1622476647512,5,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-511,text,false,,2434,0,405,978,http://127.0.0.1:8080/mutant,0,0,5
+1622476647511,16,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-370,text,false,,2434,0,406,945,http://127.0.0.1:8080/mutant,0,0,16
+1622476647517,11,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-710,text,false,,2434,0,405,938,http://127.0.0.1:8080/mutant,0,0,11
+1622476647518,10,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-714,text,false,,2434,0,405,937,http://127.0.0.1:8080/mutant,0,0,10
+1622476647523,6,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-718,text,false,,2434,0,403,933,http://127.0.0.1:8080/mutant,0,0,6
+1622476647530,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-669,text,false,,2434,0,405,931,http://127.0.0.1:8080/mutant,0,0,1
+1622476647531,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-713,text,false,,2434,0,405,929,http://127.0.0.1:8080/mutant,0,0,1
+1622476647538,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-703,text,false,,2434,0,405,901,http://127.0.0.1:8080/mutant,0,0,0
+1622476647551,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-717,text,false,,2434,0,406,874,http://127.0.0.1:8080/mutant,0,0,1
+1622476647554,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-681,text,false,,2434,0,409,878,http://127.0.0.1:8080/mutant,0,0,0
+1622476647554,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-707,text,false,,2434,0,409,878,http://127.0.0.1:8080/mutant,0,0,1
+1622476647554,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-673,text,false,,2434,0,409,878,http://127.0.0.1:8080/mutant,0,0,1
+1622476647554,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-711,text,false,,2434,0,409,878,http://127.0.0.1:8080/mutant,0,0,1
+1622476647557,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-721,text,false,,2434,0,411,880,http://127.0.0.1:8080/mutant,0,0,0
+1622476647556,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-715,text,false,,2434,0,410,879,http://127.0.0.1:8080/mutant,0,0,2
+1622476647548,12,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-726,text,false,,2434,0,409,877,http://127.0.0.1:8080/mutant,0,0,12
+1622476647563,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-725,text,false,,2434,0,411,878,http://127.0.0.1:8080/mutant,0,0,1
+1622476647563,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-719,text,false,,2434,0,410,877,http://127.0.0.1:8080/mutant,0,0,1
+1622476647565,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-734,text,false,,2434,0,410,877,http://127.0.0.1:8080/mutant,0,0,1
+1622476647566,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-738,text,false,,2434,0,410,877,http://127.0.0.1:8080/mutant,0,0,0
+1622476647567,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-723,text,false,,2434,0,411,879,http://127.0.0.1:8080/mutant,0,0,2
+1622476647568,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-729,text,false,,2434,0,411,879,http://127.0.0.1:8080/mutant,0,0,1
+1622476647574,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-727,text,false,,2434,0,411,880,http://127.0.0.1:8080/mutant,0,0,1
+1622476647578,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-733,text,false,,2434,0,412,883,http://127.0.0.1:8080/mutant,0,0,0
+1622476647578,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-746,text,false,,2434,0,412,882,http://127.0.0.1:8080/mutant,0,0,1
+1622476647579,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-731,text,false,,2434,0,411,881,http://127.0.0.1:8080/mutant,0,0,1
+1622476647581,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-770,text,false,,2434,0,414,884,http://127.0.0.1:8080/mutant,0,0,1
+1622476647583,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-750,text,false,,2434,0,416,889,http://127.0.0.1:8080/mutant,0,0,0
+1622476647583,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-737,text,false,,2434,0,416,889,http://127.0.0.1:8080/mutant,0,0,1
+1622476647585,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-741,text,false,,2434,0,416,889,http://127.0.0.1:8080/mutant,0,0,1
+1622476647588,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-759,text,false,,2434,0,417,889,http://127.0.0.1:8080/mutant,0,0,1
+1622476647591,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-427,text,false,,2434,0,419,891,http://127.0.0.1:8080/mutant,0,0,0
+1622476647590,3,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-745,text,false,,2434,0,418,888,http://127.0.0.1:8080/mutant,0,0,3
+1622476647594,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-755,text,false,,2434,0,418,888,http://127.0.0.1:8080/mutant,0,0,0
+1622476647594,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-747,text,false,,2434,0,418,889,http://127.0.0.1:8080/mutant,0,0,2
+1622476647586,11,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-761,text,false,,2434,0,417,888,http://127.0.0.1:8080/mutant,0,0,11
+1622476647584,13,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-735,text,false,,2434,0,416,886,http://127.0.0.1:8080/mutant,0,0,13
+1622476647590,7,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-743,text,false,,2434,0,417,887,http://127.0.0.1:8080/mutant,0,0,7
+1622476647598,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-749,text,false,,2434,0,417,887,http://127.0.0.1:8080/mutant,0,0,0
+1622476647598,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-739,text,false,,2434,0,417,887,http://127.0.0.1:8080/mutant,0,0,1
+1622476647600,0,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-753,text,false,,2434,0,417,887,http://127.0.0.1:8080/mutant,0,0,0
+1622476647599,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-751,text,false,,2434,0,416,887,http://127.0.0.1:8080/mutant,0,0,2
+1622476647600,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-411,text,false,,2434,0,415,886,http://127.0.0.1:8080/mutant,0,0,2
+1622476647603,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-415,text,false,,2434,0,415,886,http://127.0.0.1:8080/mutant,0,0,1
+1622476647629,1,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-419,text,false,,2434,0,415,889,http://127.0.0.1:8080/mutant,0,0,1
+1622476647644,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-687,text,false,,2434,0,419,895,http://127.0.0.1:8080/mutant,0,0,2
+1622476647641,6,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-709,text,false,,2434,0,418,894,http://127.0.0.1:8080/mutant,0,0,6
+1622476647642,5,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-665,text,false,,2434,0,419,895,http://127.0.0.1:8080/mutant,0,0,5
+1622476647638,10,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-757,text,false,,2434,0,418,894,http://127.0.0.1:8080/mutant,0,0,10
+1622476647642,7,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-661,text,false,,2434,0,417,891,http://127.0.0.1:8080/mutant,0,0,7
+1622476647642,7,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-689,text,false,,2434,0,416,890,http://127.0.0.1:8080/mutant,0,0,7
+1622476647648,2,DNA sequence request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Permission denied: connect,Massive dna sequences checking (Mutant) 1-651,text,false,,2434,0,415,887,http://127.0.0.1:8080/mutant,0,0,2
