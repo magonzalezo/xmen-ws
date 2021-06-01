@@ -26,9 +26,9 @@ Este proyecto fue desarrollado en Java 8 con Spring Boot en el IDE STS (Spring T
   server.port=8081
   ```
 * Verificas que todo haya corrido bien observando si sale algo como esto:
-  ![Iniciar](/Project documents/Screenshots/Iniciar.jpg "Iniciando...")
+  ![Iniciar](/Project&#32;documents/Screenshots/Iniciar.jpg "Iniciando...")
 * Para terminar basta con que vayas al navegador y ejecutes **localhost:8080** o el puerto que configuraste:
-  ![Ejecutar](/Project documents/Screenshots/Funcionando.jpg "Ejecutando...")
+  ![Ejecutar](/Project&#32;documents/Screenshots/Funcionando.jpg "Ejecutando...")
 
 ## Proyecto en la nube
 Este protecto ha sido subido a la nube y lo puedes usar:
